@@ -2,6 +2,7 @@ body{
   font-family: Georgia, "Times New Roman", Times, serif;
   color: #555;
   background:rgba(0,0,0,0.02);
+  padding-top: 70px;
 }
 
 section.posts{
