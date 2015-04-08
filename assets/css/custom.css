@@ -1,0 +1,34 @@
+body{
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: #555;
+
+}
+
+
+
+.post{
+  border-bottom: 1px solid #e1e1e0;
+  padding-bottom: 10px;
+  margin-bottom: 40px;
+}
+.post .avatar{
+  margin-top: 20px;
+  text-align: center;
+}
+.post .avatar img{
+  width: 96px;
+  height: 96px;
+}
+.post .metadata{
+  text-align: center;
+  color:#999;
+  margin-top: 5px;
+}
+.post .metadata .date{
+  font-size: 26px;
+}
+.post p{
+  text-align: justify;
+  font-size:18px;
+  line-height: 1.5;
+}
