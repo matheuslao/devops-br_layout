@@ -5,6 +5,10 @@ body{
   padding-top: 70px;
 }
 
+.content{
+  padding: 10px 20px;
+}
+
 section.posts{
 }
 
